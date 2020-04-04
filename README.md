@@ -9,7 +9,7 @@
  ```js
 const FiveM = require("fivem-module")
 //initalizes the Server class (make sure you put your server ip where it says 'Server IP')
-const server = new FiveM.Server('Server IP')
+const server = new FiveM('Server IP')
 
 //Get Players (in numbers)
 server.getPlayers()
@@ -31,3 +31,7 @@ server.getTags()
 server.getServer()
 .then(data => console.log(data))
 ```
+
+# Credits
+
+Thanks to Anonymous Guy#6275 for turning this module axios based!
