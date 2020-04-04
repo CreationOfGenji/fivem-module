@@ -1,17 +1,15 @@
 {
   "name": "fivem-module",
-  "version": "1.1.1",
+  "version": "1.1.4",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CreationOfGenji/fivem-module"
   },
-  "author": "",
+  "author": "Github: CreationOfGenji - Discord: ",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
-    "cheerio": "^1.0.0-rc.3",
-    "coviddivoc": "^1.0.2",
     "request": "^2.88.2"
   }
 }
