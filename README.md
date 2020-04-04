@@ -31,3 +31,6 @@ server.getTags()
 server.getServer()
 .then(data => console.log(data))
 ```
+
+# Credits
+Credits to Anonymous Guy#6275 for making this module axios based!
