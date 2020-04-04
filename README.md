@@ -33,4 +33,4 @@ server.getServer()
 ```
 
 # Credits
-Credits to Anonymous Guy#6275 for making this module axios based!
+Credits to ThatAnonymousG for making this module axios based!
