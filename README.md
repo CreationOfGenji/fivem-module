@@ -33,5 +33,6 @@ server.getServer()
 ```
 
 # Credits
-Credits to ThatAnonymousG for making this module axios based!\n
+Credits to ThatAnonymousG for making this module axios based!
+
 Credits to [JackCrispy](https://github.com/JackCrispy/fivem) for the source code.
